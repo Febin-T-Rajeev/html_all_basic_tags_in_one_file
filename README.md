@@ -1,3 +1,4 @@
-# html_all_in_one
+# HTML CHEAT FILE
 All basic html tags in one file
-<img src="resources/Capture.PNG>
+<br>
+<img src="resources/Capture.PNG">
